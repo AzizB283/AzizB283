@@ -2,10 +2,6 @@
 
 I’m a passionate Full-Stack Developer from Gujarat, India 🇮🇳, currently working at Creole Studios. With 2.5+ years of experience, I specialize in building intuitive and scalable web applications using modern technologies like React, Next.js, and Node.js. I love experimenting with new tech, integrating Generative AI, and turning ideas into impactful products.
 
-![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzizB283&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
----
-
 ## 🚀 About Me
 
 - 🔭 Currently working as a Junior Software Developer at **Creole Studios**, Ahmedabad  
@@ -20,7 +16,7 @@ I’m a passionate Full-Stack Developer from Gujarat, India 🇮🇳, currently 
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,nestjs,mongodb,postgres,git,vercel,tailwind,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,mongodb,postgres,git,vercel,tailwind,figma,linux)](https://skillicons.dev)
 
 ---
 
@@ -42,5 +38,7 @@ Let’s connect and build something meaningful:
 - 📧 azizbhavanagarwala@gmail.com
 
 ---
+
+![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzizB283&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Thanks for stopping by! Let's collaborate and shape the future with tech. 🚀
