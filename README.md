@@ -16,7 +16,7 @@ I’m a passionate Full-Stack Developer from Gujarat, India 🇮🇳, currently 
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,mongodb,postgres,git,vercel,tailwind,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,mongodb,postgres,git,vercel,tailwind,antd,figma,linux)](https://skillicons.dev)
 
 ---
 
