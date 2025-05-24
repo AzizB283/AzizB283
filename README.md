@@ -4,12 +4,15 @@ I’m a passionate Full-Stack Developer from Gujarat, India 🇮🇳, currently 
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a Junior Software Developer at **Creole Studios**, Ahmedabad  
+- 🔭 Junior Software Developer @ **Creole Studios**, Ahmedabad   
 - 💻 Building full-stack apps using **React, Next.js, Node.js, Nest.js, and Supabase**
 - 🤖 Exploring **Generative AI** with OpenAI, LLaMA, and automation tools like **n8n** and **Make**
-- 🌐 Visit my portfolio: [aziz-b.vercel.app](https://aziz-b.vercel.app)
-- 🗣 I directly handle client meetings, daily updates, and project ownership
-- 🎮 Love building fun projects like **Typing Racer** and **1-Minute Challenge Mania**
+- 🧠 Skilled in REST APIs, SSR/SPA architecture, CI/CD, and automation workflows
+- 🗣 Directly handling client meetings, demos, daily updates, and project ownership
+- 🎮 Built fun projects like:
+  - [Quick Challenge Mania](https://quick-challenge-mania.vercel.app) – 1-minute mental games  
+  - [Typing Racer](https://type-racer-cyan.vercel.app) – Real-time typing speed test
+- 🌐 Portfolio: [aziz-b.vercel.app](https://aziz-b.vercel.app)
 - ✨ Always eager to learn, grow, and contribute to impactful products
 
 ---
@@ -36,9 +39,5 @@ Let’s connect and build something meaningful:
 - 💼 [LinkedIn](https://www.linkedin.com/in/aziz-bhavnagarwala-36a158236/)
 - 🌐 [Portfolio Website](https://aziz-b.vercel.app)
 - 📧 azizbhavanagarwala@gmail.com
-
----
-
-![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzizB283&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Thanks for stopping by! Let's collaborate and shape the future with tech. 🚀
