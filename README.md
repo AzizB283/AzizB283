@@ -36,7 +36,7 @@ I’m a passionate Full-Stack Developer from Gujarat, India 🇮🇳, currently 
 
 Let’s connect and build something meaningful:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aziz-bhavnagarwala-36a158236/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/aziz-bhavnagarwala-36a158236/)
 - 🌐 [Portfolio Website](https://aziz-b.vercel.app)
 - 📧 azizbhavanagarwala@gmail.com
 
