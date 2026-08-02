@@ -1,6 +1,6 @@
 # Hi, I'm Aziz Bhavnagarwala! 👋
 
-I’m a passionate Full-Stack Developer from Gujarat, India 🇮🇳, currently working at Creole Studios. With 3 years of experience, I specialize in building intuitive and scalable web applications using modern technologies like React, Next.js, and Node.js. I love experimenting with new tech, integrating Generative AI, and turning ideas into impactful products.
+I’m a passionate Full-Stack Developer from Gujarat, India 🇮🇳, currently working at TOPS Infosolutions. With 4 years of experience, I specialize in building intuitive and scalable web applications using modern technologies like React, Next.js, and Node.js. I love experimenting with new tech, integrating Generative AI, and turning ideas into impactful products.
 
 ## 🚀 About Me
 
