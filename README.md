@@ -4,7 +4,7 @@ I’m a passionate Full-Stack Developer from Gujarat, India 🇮🇳, currently 
 
 ## 🚀 About Me
 
-- 🔭 Software Engineer @ **Creole Studios**, Ahmedabad   
+- 🔭 Software Engineer @ **TOPS Infosolutions**, Ahmedabad   
 - 💻 Building full-stack apps using **React, Next.js, Node.js, Nest.js, and Supabase**
 - 🤖 Exploring **Generative AI** with OpenAI, LLaMA, and automation tools like **n8n** and **Make**
 - 🧠 Skilled in REST APIs, SSR/SPA architecture, CI/CD, and automation workflows
@@ -36,8 +36,8 @@ I’m a passionate Full-Stack Developer from Gujarat, India 🇮🇳, currently 
 
 Let’s connect and build something meaningful:
 
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/aziz-bhavnagarwala-36a158236/)
-- 🌐 [Portfolio Website](https://aziz-b.vercel.app)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/aziz-bhavnagarwala/)
+- 🌐 [Portfolio Website](https://aurexauto.com)
 - 📧 azizbhavanagarwala@gmail.com
 
 Thanks for stopping by! Let's collaborate and shape the future with tech. 🚀
