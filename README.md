@@ -1,43 +1,34 @@
-# Hi, I'm Aziz Bhavnagarwala! 👋
+# Hi, I'm Aziz Bhavnagarwala
 
-I’m a passionate Full-Stack Developer from Gujarat, India 🇮🇳, currently working at TOPS Infosolutions. With 4 years of experience, I specialize in building intuitive and scalable web applications using modern technologies like React, Next.js, and Node.js. I love experimenting with new tech, integrating Generative AI, and turning ideas into impactful products.
+Full-stack and generative AI engineer from Ahmedabad, India, with about 4 years of experience. I build AI features that work on real business data, and the backends that keep them correct and affordable to run.
 
-## 🚀 About Me
+### What I'm working on
 
-- 🔭 Software Engineer @ **TOPS Infosolutions**, Ahmedabad   
-- 💻 Building full-stack apps using **React, Next.js, Node.js, Nest.js, and Supabase**
-- 🤖 Exploring **Generative AI** with OpenAI, LLaMA, and automation tools like **n8n** and **Make**
-- 🧠 Skilled in REST APIs, SSR/SPA architecture, CI/CD, and automation workflows
-- 🗣 Directly handling client meetings, demos, daily updates, and project ownership
-- 🎮 Built fun projects like:
-  - [Quick Challenge Mania](https://quick-challenge-mania.vercel.app) – 1-minute mental games  
-  - [Typing Racer](https://type-racer-cyan.vercel.app) – Real-time typing speed test
-- 🌐 Portfolio: [aziz-b.vercel.app](https://aziz-b.vercel.app)
-- ✨ Always eager to learn, grow, and contribute to impactful products
+- **Full-Stack & Generative AI Engineer at TOPS Infosolutions.** I work on an analytics platform for Amazon sellers, mainly its AI chat assistant, which answers sellers' questions straight from their own data, plus backend performance and data pipelines.
+- **Founder of [Aurex Auto](https://aurexauto.com)**, where I build my own products:
+  - [Schedulio.ai](https://schedulio.ai): an AI receptionist that answers calls, WhatsApp and web chat and books appointments for clinics and real-estate agencies.
+  - [TradeDesk](https://tradedesk.aurexauto.com): an operations platform for exporters and importers, with trade documents, automatic container tracking and compliance alerts.
+  - CeramicBot: a WhatsApp and web chat sales assistant for ceramic factories.
+- An internal tool that runs AI coding agents on several Jira tickets in parallel and opens merge requests for review.
 
----
+### Other things I've built
 
-## 🛠️ Tech Stack
+- **Visual similarity search:** store owners upload a clothing photo and find out whether a similar product is already in their catalog (FashionCLIP + Pinecone).
+- **Trainable AI chat and voice agents:** bots that learn from a company's files and website and answer customers through embeddable widgets.
+- **Tax filing automation:** pulls company data from Excel and fills official tax forms automatically.
+- **Deep research agent:** turns one topic into a structured, sourced report in Notion (n8n + Tavily + Gemini).
+- [Chat with PDF](https://github.com/AzizB283/chat-with-pdf): ask questions about any PDF and get answers with page citations.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,mongodb,postgres,git,vercel,tailwind,figma,linux)](https://skillicons.dev)
+### Stack
 
----
+TypeScript, Node.js, NestJS, Express, React, Next.js, PostgreSQL, Redis, AWS, Docker. On the AI side: Claude and OpenAI APIs, LangGraph, MCP, RAG and Langfuse.
 
-## 🌱 Currently Exploring
+[![Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,react,nextjs,postgres,redis,aws,docker,tailwind,git)](https://skillicons.dev)
 
-- ⚛️ Advanced **React Hooks**, **Zustand**, **React Query**, and performance optimization
-- 🌍 Seamless frontend-to-backend experiences using **Next.js + Supabase**
-- 🤖 Building intelligent apps with **OpenAI, LLaMA**, and other GenAI tools
-- 🔄 Integrating **automation** in workflows with n8n and Make
+### Open to
 
----
+Remote roles and freelance work on AI agents, LLM-backed features and full-stack SaaS.
 
-## 📬 Get in Touch
+### Get in touch
 
-Let’s connect and build something meaningful:
-
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/aziz-bhavnagarwala/)
-- 🌐 [Portfolio Website](https://aurexauto.com)
-- 📧 azizbhavanagarwala@gmail.com
-
-Thanks for stopping by! Let's collaborate and shape the future with tech. 🚀
+[Portfolio](https://aziz.aurexauto.com) · [LinkedIn](https://www.linkedin.com/in/aziz-bhavnagarwala) · azizbhavanagarwala@gmail.com
